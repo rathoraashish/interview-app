@@ -1,0 +1,82 @@
+[
+  {
+    "id": "nodejs-basics",
+    "title": "Node.js Basics",
+    "description": "Test your knowledge of Node.js fundamentals",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is Node.js?",
+        "options": [
+          "A web browser",
+          "A programming language",
+          "A runtime environment for executing JavaScript outside the browser",
+          "A database management system"
+        ],
+        "correctAnswer": "A runtime environment for executing JavaScript outside the browser"
+      },
+      {
+        "id": "q2",
+        "text": "Which of the following is NOT a core module in Node.js?",
+        "options": [
+          "http",
+          "fs",
+          "path",
+          "mysql"
+        ],
+        "correctAnswer": "mysql"
+      },
+      {
+        "id": "q3",
+        "text": "What does the 'npm' stand for?",
+        "options": [
+          "Node Package Manager",
+          "New Project Manager",
+          "Node Project Module",
+          "New Package Module"
+        ],
+        "correctAnswer": "Node Package Manager"
+      }
+    ]
+  },
+  {
+    "id": "react-fundamentals",
+    "title": "React Fundamentals",
+    "description": "Test your understanding of React basics",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is JSX?",
+        "options": [
+          "A JavaScript library",
+          "A syntax extension for JavaScript",
+          "A new programming language",
+          "A database query language"
+        ],
+        "correctAnswer": "A syntax extension for JavaScript"
+      },
+      {
+        "id": "q2",
+        "text": "Which hook is used for side effects in React?",
+        "options": [
+          "useState",
+          "useEffect",
+          "useContext",
+          "useReducer"
+        ],
+        "correctAnswer": "useEffect"
+      },
+      {
+        "id": "q3",
+        "text": "What is the purpose of the 'key' prop when rendering lists in React?",
+        "options": [
+          "To style list items",
+          "To filter list items",
+          "To uniquely identify list items",
+          "To sort list items"
+        ],
+        "correctAnswer": "To uniquely identify list items"
+      }
+    ]
+  }
+]
