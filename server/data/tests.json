@@ -1,0 +1,325 @@
+[
+  {
+    "id": "nodejs-basics",
+    "title": "Node.js Basics",
+    "description": "Test your knowledge of Node.js fundamentals",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is Node.js?",
+        "options": [
+          "A web browser",
+          "A programming language",
+          "A runtime environment for executing JavaScript outside the browser",
+          "A database management system"
+        ],
+        "correctAnswer": "A runtime environment for executing JavaScript outside the browser"
+      },
+      {
+        "id": "q2",
+        "text": "Which of the following is NOT a core module in Node.js?",
+        "options": [
+          "http",
+          "fs",
+          "path",
+          "mysql"
+        ],
+        "correctAnswer": "mysql"
+      },
+      {
+        "id": "q3",
+        "text": "What does the 'npm' stand for?",
+        "options": [
+          "Node Package Manager",
+          "New Project Manager",
+          "Node Project Module",
+          "New Package Module"
+        ],
+        "correctAnswer": "Node Package Manager"
+      }
+    ]
+  },
+  {
+    "id": "react-fundamentals",
+    "title": "React Fundamentals",
+    "description": "Test your understanding of React basics",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is JSX?",
+        "options": [
+          "A JavaScript library",
+          "A syntax extension for JavaScript",
+          "A new programming language",
+          "A database query language"
+        ],
+        "correctAnswer": "A syntax extension for JavaScript"
+      },
+      {
+        "id": "q2",
+        "text": "Which hook is used for side effects in React?",
+        "options": [
+          "useState",
+          "useEffect",
+          "useContext",
+          "useReducer"
+        ],
+        "correctAnswer": "useEffect"
+      },
+      {
+        "id": "q3",
+        "text": "What is the purpose of the 'key' prop when rendering lists in React?",
+        "options": [
+          "To style list items",
+          "To filter list items",
+          "To uniquely identify list items",
+          "To sort list items"
+        ],
+        "correctAnswer": "To uniquely identify list items"
+      }
+    ]
+  },
+  {
+    "id": "javascript-es6",
+    "title": "JavaScript ES6 Essentials",
+    "description": "Test your knowledge of JavaScript ES6 features",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is the purpose of the 'let' keyword in JavaScript ES6?",
+        "options": [
+          "To declare a block-scoped variable",
+          "To declare a global-scoped variable",
+          "To declare a constant",
+          "To declare a function"
+        ],
+        "correctAnswer": "To declare a block-scoped variable"
+      },
+      {
+        "id": "q2",
+        "text": "Which of the following is a new data type introduced in ES6?",
+        "options": [
+          "Object",
+          "Array",
+          "Symbol",
+          "Function"
+        ],
+        "correctAnswer": "Symbol"
+      },
+      {
+        "id": "q3",
+        "text": "What is the correct syntax for declaring a default parameter in a function?",
+        "options": [
+          "function myFunc(param = 'default') {}",
+          "function myFunc(param 'default') {}",
+          "myFunc(param default: 'default') {}",
+          "myFunc default(param) = 'default' {}"
+        ],
+        "correctAnswer": "function myFunc(param = 'default') {}"
+      }
+    ]
+  },
+  {
+    "id": "aws-basics",
+    "title": "AWS Basics",
+    "description": "Test your understanding of AWS services",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is Amazon S3 primarily used for?",
+        "options": [
+          "Compute services",
+          "Data storage",
+          "Database services",
+          "Networking services"
+        ],
+        "correctAnswer": "Data storage"
+      },
+      {
+        "id": "q2",
+        "text": "Which AWS service is used to run serverless applications?",
+        "options": [
+          "EC2",
+          "Lambda",
+          "S3",
+          "CloudFront"
+        ],
+        "correctAnswer": "Lambda"
+      }
+    ]
+  },
+  {
+    "id": "mysql-basics",
+    "title": "MySQL Basics",
+    "description": "Test your understanding of MySQL",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Which SQL statement is used to retrieve data from a database?",
+        "options": [
+          "SELECT",
+          "GET",
+          "EXTRACT",
+          "RETRIEVE"
+        ],
+        "correctAnswer": "SELECT"
+      },
+      {
+        "id": "q2",
+        "text": "Which MySQL function is used to count the number of rows in a table?",
+        "options": [
+          "COUNT()",
+          "SUM()",
+          "TOTAL()",
+          "CALCULATE()"
+        ],
+        "correctAnswer": "COUNT()"
+      }
+    ]
+  },
+  {
+    "id": "docker-basics",
+    "title": "Docker Basics",
+    "description": "Test your understanding of Docker and containerization",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is Docker used for?",
+        "options": [
+          "Virtualization",
+          "Containerization",
+          "Monitoring applications",
+          "Building front-end applications"
+        ],
+        "correctAnswer": "Containerization"
+      },
+      {
+        "id": "q2",
+        "text": "What command is used to list running Docker containers?",
+        "options": [
+          "docker run",
+          "docker ps",
+          "docker start",
+          "docker stop"
+        ],
+        "correctAnswer": "docker ps"
+      }
+    ]
+  },
+  {
+    "id": "git-basics",
+    "title": "Git Basics",
+    "description": "Test your understanding of Git and version control",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What command is used to clone a Git repository?",
+        "options": [
+          "git clone",
+          "git pull",
+          "git commit",
+          "git push"
+        ],
+        "correctAnswer": "git clone"
+      },
+      {
+        "id": "q2",
+        "text": "Which command is used to create a new branch in Git?",
+        "options": [
+          "git branch",
+          "git checkout",
+          "git commit",
+          "git merge"
+        ],
+        "correctAnswer": "git branch"
+      }
+    ]
+  },
+  {
+    "id": "html5-fundamentals",
+    "title": "HTML5 Fundamentals",
+    "description": "Test your understanding of HTML5",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Which HTML5 element is used for embedding a video?",
+        "options": [
+          "<audio>",
+          "<video>",
+          "<media>",
+          "<iframe>"
+        ],
+        "correctAnswer": "<video>"
+      },
+      {
+        "id": "q2",
+        "text": "What is the purpose of the <canvas> element in HTML5?",
+        "options": [
+          "To embed images",
+          "To draw graphics",
+          "To link stylesheets",
+          "To include audio files"
+        ],
+        "correctAnswer": "To draw graphics"
+      }
+    ]
+  },
+  {
+    "id": "python-basics",
+    "title": "Python Basics",
+    "description": "Test your knowledge of Python programming",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Which of the following is a correct way to create a function in Python?",
+        "options": [
+          "function myFunc()",
+          "def myFunc():",
+          "function myFunc[]",
+          "def myFunc[]:"
+        ],
+        "correctAnswer": "def myFunc():"
+      },
+      {
+        "id": "q2",
+        "text": "How do you create a list in Python?",
+        "options": [
+          "list = ()",
+          "list = []",
+          "list = {}",
+          "list = <>"
+        ],
+        "correctAnswer": "list = []"
+      }
+    ]
+  },
+  {
+    "id": "css-basics",
+    "title": "CSS Basics",
+    "description": "Test your understanding of fundamental CSS concepts",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Which CSS property is used to change the text color of an element?",
+        "options": [
+          "font-color",
+          "text-color",
+          "color",
+          "background-color"
+        ],
+        "correctAnswer": "color"
+      },
+      {
+        "id": "q2",
+        "text": "Which property is used to control the spacing between lines of text?",
+        "options": [
+          "letter-spacing",
+          "line-height",
+          "word-spacing",
+          "text-align"
+        ],
+        "correctAnswer": "line-height"
+      }
+    ]
+  }  
+]
